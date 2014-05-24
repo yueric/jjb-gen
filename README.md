@@ -6,5 +6,4 @@
 		目前只支持从数据库反向，没有做通过URI模型的。
 
 ###其他
-	生成的代码，能直接运行在[jjb-frame](https://github.com/yueric/jjb-frame) 框架下面
-	[点击这里你可以链接到www.google.com](http://www.google.com)
+	生成的代码，能直接运行在 [jjb-frame](https://github.com/yueric/jjb-frame) 框架下面
