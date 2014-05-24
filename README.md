@@ -7,3 +7,4 @@
 
 ###其他
 	生成的代码，能直接运行在[jjb-frame](https://github.com/yueric/jjb-frame) 框架下面
+	[点击这里你可以链接到www.google.com](http://www.google.com)
