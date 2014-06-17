@@ -8,4 +8,5 @@
 	运行app.java，即可在项目dest目录下生成对应代码
 	
 ###其他
+	数据库建立请全部使用小写，表使用自增id字段为主键（jfinal要求）
 	生成的代码，能直接运行在 [jjb-frame](https://github.com/yueric/jjb-frame) 框架下面
